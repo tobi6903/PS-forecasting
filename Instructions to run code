@@ -1,0 +1,12 @@
+
+----------------------How to run the code :--------------------
+
+Step -1 Open :  https://www.kaggle.com/code/vasistamagam/forecasting-load-final-ipynb/edit in your browser
+
+Step -2 Click Copy and Edit
+
+Step -3 Load the dataset in your notebook by clicking Add input
+
+Step -4 Turn on GPU for faster computation by selecting Settings->Accelerator->GPU
+
+Step -5 Run the NoteBook
